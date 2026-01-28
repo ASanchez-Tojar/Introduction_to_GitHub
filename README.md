@@ -7,7 +7,7 @@
 
 **Category:** Project
 
-**Code License:** [MIT](https://github.com/ASanchez-Tojar/meta-Introduction_to_GitHub/tree/main?tab=MIT-1-ov-file)
+**Code License:** [MIT](https://github.com/ASanchez-Tojar/Introduction_to_GitHub/blob/main/LICENSE)
 
 **Data License:** See the original licence assigned by the generators of the meta-analytic dataset at https://doi.org/10.5281/zenodo.14930059
 
