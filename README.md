@@ -3,7 +3,7 @@
 
 **Date created:** January 2026
 
-**Identifer:** DOI (TBA)
+**Identifer:** DOI (remember to assign a DOI, which can be easily done through Zenodo)
 
 **Category:** Project
 
