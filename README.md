@@ -19,7 +19,7 @@ You and Your Awesome Collaborators. 2026. **The Best Ever Paper Written**.
 
 ---
 
-This study is simply amazing. The repository consists of an R project with 1 script as a .qmd and 3 folders containing the data needed to run the script, including the figures. To run this repository, first download and unzip the entire repository and open the Rproject file: [meta-analysis_badge_of_status_commentary.Rproj](https://github.com/ASanchez-Tojar/meta-Introduction_to_GitHub/blob/main/Introduction_to_GitHub.Rproj). For any further information about this repository, please contact: [Alfredo Sánchez-Tójar](https://scholar.google.co.uk/citations?hl=en&user=Sh-Rjq8AAAAJ&view_op=list_works&sortby=pubdate), email: alfredo.tojar@gmail.com. 
+This study is simply amazing. The repository consists of an R project with 1 script as a .qmd and 3 folders containing the data needed to run the script, including the figures. To run this repository, first download and unzip the entire repository and open the Rproject file: [Introduction_to_GitHub.Rproj](https://github.com/ASanchez-Tojar/Introduction_to_GitHub/blob/main/Introduction_to_GitHub.Rproj). For any further information about this repository, please contact: [Alfredo Sánchez-Tójar](https://scholar.google.co.uk/citations?hl=en&user=Sh-Rjq8AAAAJ&view_op=list_works&sortby=pubdate), email: alfredo.tojar@gmail.com. 
 
 
 ## Information about folders and files within:
