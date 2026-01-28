@@ -25,7 +25,7 @@ Welcome! In this demo, we will explore **GitHub, reproducible workflows, and dat
 
 **GitHub & GitLab** are platforms for version control and collaboration using Git. They allow you to track changes, work with collaborators, and host your projects online.
 
-**FAIR principles** guide good scientific practices:
+**FAIR principles** ([Wilkinson et al. 2016](https://doi.org/10.1038/sdata.2016.18)):
 
 - **F**indable: easy to locate your data/code  
 - **A**ccessible: public and retrievable  (you need a DOI!)
@@ -37,6 +37,8 @@ This repository illustrates both:
 - A clear project structure (`data/`, `code/`, `figures/`, `docs/`)  
 - Reproducible analysis using Quarto  
 - FAIR metadata in the README
+
+For similar guidelines for code, see [Ivimey-Cook et al. 2026](https://doi.org/10.32942/X2D93K) and for additional information on reproducible repositories, see [Pick et al. 2025](https://doi.org/10.32942/X24P8S)
 
 ```{r Setup, include=FALSE}
 # Clear memory
